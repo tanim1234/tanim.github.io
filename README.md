@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
 <head>
-	<title> Free website </title>
-	<p align=center> Welcome My friend , Welcome !!! </p><hr>
+	<title> Tanim's website </title>
+	<p align=center> Welcome!!! My friend , Welcome !!! </p><hr>
 </head>
 <body>
 <p align=center>
@@ -10,28 +11,51 @@
 <font size=4>
 
 <p align=center><a href="https://www.facebook.com/profile.php?id=100037932254955" target=empty> Facebook </a></p>
-<p align=center><a href="https://www.youtube.com/watch?v=ggm0lzsioJU&t=25s" target=empty> Play</a></p>
-<em>	
 
-	<h3>my name is tanim.</h3>
+	
+<em>
+	<h3>My name is Tanim.</h3>
 	<p> I am currntly living in Moulvibazar.</p> 
-	<p> I am from a dangerious place named B Baria.</p>
+	<p> I am from a dangerious place named <br> B-Baria.</p>
 </em>
-My friends list:
+<p>
+<i> My father is a government employee.</i><br>
+<b> My mother is a home maker.</b><br>
+<u> My sister is a medicial student.</u><br><br>
+My favourite equation:
+<strong> 
+<ul type="circle">
+<li>(a+b)<sup>2</sup>=a<sup>2</sup>+2ab+b<sup>2</sup></li><br>
+<li>C + O<sub>2</sub>=CO<sub>2</sub></li>
+</ul>
+</strong>
+</p>
+Some of my friends :
 <ul type=square>
-	<li>Rakin</li>
 	<li>Ebrahim</li>
+	<li>Rakin</li>
 	<li>Shuvo</li>	
 	<li>Shurove</li>
 	<li>Joy</li>
 	<li>Fuad</li>
+	<li>Akash</li>
+	<li>Shuhan</li>
+	<li>Rakib</li>	
+	<li>Marzan</li>
+	<li>Minhaz</li>
+	<li>Emran</li>
 </ul>
 My bad habits:
 <ol type=i>
 	<li>lazy</li>
 	<li>keep late hours</li>
-	<li>phone addict</li>
+	
 </ol>
+World cup football songs:<br>
+	<a href="https://www.youtube.com/watch?v=WTJSt4wP2ME" target=empty>Wavin flag</a><br>
+	<a href="https://www.youtube.com/watch?v=pRpeEdMmmQ0" target=empty>Waka waka</a><br>
+	<a href="https://www.youtube.com/watch?v=7-7knsP2n5w" target=empty>La la la</a><br>
+	<a href="https://www.youtube.com/watch?v=ggm0lzsioJU&t=25s" target=empty>Magic in the air</a>
 </font>
 
 </body>
