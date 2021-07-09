@@ -1,5 +1,6 @@
 <DOGTYPE html>
 <html>
+<title> Tanim's website </title>	
 <head>
 	
 	<p align=center> Welcome!!! My friend , Welcome !!! </p><hr>
