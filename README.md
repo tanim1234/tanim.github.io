@@ -4,11 +4,7 @@
 	<p align=center> Welcome!!! My friend , Welcome !!! </p><hr>
 <meta charset="utf-8">
 <style>
-
-  div{
-
-  color:red;
-}
+div{color: blue;}
   a{
    text-decoration: none;
    color: indigo;
@@ -66,12 +62,11 @@ My bad habits:
 	
 </ol>
 World cup football songs:<br>
-<div>
+
 	<a href="https://www.youtube.com/watch?v=WTJSt4wP2ME" target=empty>Wavin flag</a><br>
 	<a href="https://www.youtube.com/watch?v=pRpeEdMmmQ0" target=empty>Waka waka</a><br>
 	<a href="https://www.youtube.com/watch?v=7-7knsP2n5w" target=empty>La la la</a><br>
 	<a href="https://www.youtube.com/watch?v=ggm0lzsioJU&t=25s" target=empty>Magic in the air</a>
-</div>
 <br>
 <br>
 
