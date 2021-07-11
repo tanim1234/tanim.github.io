@@ -4,7 +4,9 @@
 	<p align=center> Welcome!!! My friend , Welcome !!! </p><hr>
 <meta charset="utf-8">
 <style>
-
+ a{
+  color: blue;
+}
 </style>
 </head>
 <body>
@@ -92,31 +94,9 @@ World cup football songs:<br>
          <td> 5.00 </td>
       </tr>
 </table>
-<br>
-<br>
-<table border=1 cellpadding=20 cellspeacing=2>
-<tr>
-	<th>A</th>		<th colspan=3>B</th>	
-<tr/>
 
-<tr>
-	<td rowspan=2>C</td>	<td rowspan=2>D</td>	<td rowspan=2>E</td>>	<td>F</td>
-</tr>
-<tr>
-										<td>K</td>
-</tr>
-<tr>
-	<td rowspan=2 >G</td>	<td colspan=3>H</td>	
-</tr>
-<tr>
-				<td colspan=2>I</td>				<td>J</td>
-</tr>				
-</font>
-</table>
 
 <p> আমি ম্যাথ এ সবসময় খারাপ  করি । এটা মিথ্যা ।    </p>
-<div>
-  this is because we used style tag
-</div>
+</font>
 </body>
 </html>
