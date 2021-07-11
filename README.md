@@ -4,14 +4,7 @@
 	<p align=center> Welcome!!! My friend , Welcome !!! </p><hr>
 <meta charset="utf-8">
 <style>
-div{color: blue;}
-  a{
-   text-decoration: none;
-   color: indigo;
-}
- body{
-  background: #48D1CC;
-}
+
 </style>
 </head>
 <body>
