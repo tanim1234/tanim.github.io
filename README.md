@@ -2,6 +2,21 @@
 <head>
 <title> Tanim's website </title>	
 	<p align=center> Welcome!!! My friend , Welcome !!! </p><hr>
+<meta charset="utf-8">
+<style>
+
+  div{
+
+  color:red;
+}
+  a{
+   text-decoration: none;
+   color: indigo;
+}
+ body{
+  background: #48D1CC;
+}
+</style>
 </head>
 <body>
 <p align=center>
@@ -51,11 +66,69 @@ My bad habits:
 	
 </ol>
 World cup football songs:<br>
+<div>
 	<a href="https://www.youtube.com/watch?v=WTJSt4wP2ME" target=empty>Wavin flag</a><br>
 	<a href="https://www.youtube.com/watch?v=pRpeEdMmmQ0" target=empty>Waka waka</a><br>
 	<a href="https://www.youtube.com/watch?v=7-7knsP2n5w" target=empty>La la la</a><br>
 	<a href="https://www.youtube.com/watch?v=ggm0lzsioJU&t=25s" target=empty>Magic in the air</a>
-</font>
+</div>
+<br>
+<br>
 
+<table border=1 cellpadding="20" cellspacing=2>
+<caption>
+<b><u>SSC RESULT:</u></b>
+</caption>
+      <tr>
+	  <th> Subject </th>
+ 	  <th> Mark </th>
+	  <th> GPA </th>
+      </tr>
+      <tr>
+         <td rowspan=2> English </td>
+         
+         <td colspan=2> <p align=center>5.00</p> </td>
+      </tr>
+    <tr>
+         <td> 99 </td>
+         <td>  3.00 </td>
+     </tr>
+    <tr>
+         <td> Physics </td>
+         <td> 94 </td>
+         <td> 5.00 </td>
+      </tr>
+    <tr>
+         <td> Chemistry </td>
+         <td> 90 </td>
+         <td> 5.00 </td>
+      </tr>
+</table>
+<br>
+<br>
+<table border=1 cellpadding=20 cellspeacing=2>
+<tr>
+	<th>A</th>		<th colspan=3>B</th>	
+<tr/>
+
+<tr>
+	<td rowspan=2>C</td>	<td rowspan=2>D</td>	<td rowspan=2>E</td>>	<td>F</td>
+</tr>
+<tr>
+										<td>K</td>
+</tr>
+<tr>
+	<td rowspan=2 >G</td>	<td colspan=3>H</td>	
+</tr>
+<tr>
+				<td colspan=2>I</td>				<td>J</td>
+</tr>				
+</font>
+</table>
+
+<p> আমি ম্যাথ এ সবসময় খারাপ  করি । এটা মিথ্যা ।    </p>
+<div>
+  this is because we used style tag
+</div>
 </body>
 </html>
